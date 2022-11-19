@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DreyLayout</string>
+    <string name="AppName">App Name</string>
+    <string name="Text">Lorem ipsum dolor sit amet, consectetur</string>
+    <string name="txtTeam"><font color="#9B72CF">Product of</font><font color="#53337A"><b> Team Name</b></font></string>
+    <string name="Reg">Register</string>
+    <string name="FullName">Full Name</string>
+    <string name="EnterPhone">Enter Email / Phone Number</string>
+    <string name="tAgree">I agree with terms &amp; conditions</string>
+    <string name="tAlready"><font color="#9B72CF">Already registered ?Let’s </font><font color="#53337A"><b>Login</b></font></string>
+    <string name="Account">Account Created\nSuccessfully</string>
+    <string name="Log">Log In</string>
+    <string name="ForgetPass">Forget Password?</string>
+    <string name="Remember">Remember Password</string>
+    <string name="HaveAccount"><font color="#9B72CF">Dont’ have an account? Let’s  </font><font color="#53337A"><b>Register</b></font></string>
+</resources>
